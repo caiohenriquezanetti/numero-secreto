@@ -1,0 +1,71 @@
+commit 021d4eb3cb635967dd563cadf14bef47e356fd69
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 15:43:16 2023 -0300
+
+    Mudar título e .gitignore
+
+commit 3fe245472127893f666b85e569e36ffd07fb85be
+Merge: c145c7a 44be0d8
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 14:07:14 2023 -0300
+
+    Merge branch 'main' of https://github.com/caiohenriquezanetti/numero-secreto
+
+commit c145c7aa5092e18d7ba11c586f73e97605e88998
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 14:07:02 2023 -0300
+
+    Revert "Alterar o limite para 70"
+    
+    This reverts commit 788fa3145b11a98c80ffe725c85f1b3c3cea0af7.
+
+commit 788fa3145b11a98c80ffe725c85f1b3c3cea0af7
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 10:42:23 2023 -0300
+
+    Alterar o limite para 70
+
+commit 44be0d8800dca5c4cbeac5a9b530ac3dd8e022e0
+Merge: eb08845 34024ba
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 13:53:02 2023 -0300
+
+    Merge branch 'main' of https://github.com/caiohenriquezanetti/numero-secreto
+
+commit eb08845c88c7215d30b3561753b97a77cb4af602
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 13:50:39 2023 -0300
+
+    Revert "Facilitar para 70"
+    
+    This reverts commit 1c782dde2c896c1f5cbaddd4858600ff7517874f.
+
+commit 1c782dde2c896c1f5cbaddd4858600ff7517874f
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 10:42:23 2023 -0300
+
+    Facilitar para 70
+
+commit 34024baa4e4743a31e621c0e8ebca7f083faa9cc
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 18 10:42:23 2023 -0300
+
+    Mudar número limite para 70
+
+commit b681ad4ed1c39ae937ce70ccca775d545db35049
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Thu Dec 14 11:39:33 2023 -0300
+
+    Deixar o jogo mais fácil
+
+commit d0096d4a828bc9603900b756a82289a80eef42cd
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Tue Dec 12 15:59:03 2023 -0300
+
+    Alterando o número limite para 100
+
+commit d5147c82e239f23a2b9d081116c63db713e53a60
+Author: Caio Henrique <caiohenriquezanetti@gmail.com>
+Date:   Mon Dec 11 14:09:38 2023 -0300
+
+    Projeto Final

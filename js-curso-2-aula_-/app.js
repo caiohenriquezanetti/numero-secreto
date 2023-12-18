@@ -10,7 +10,7 @@ function exibirTextoNaTela (tag, texto){
 }
 
 function exibirMensagemInicial (){
-    exibirTextoNaTela("h1", "Descubra o número, ou volte para o bueiro");
+    exibirTextoNaTela("h1", "Adivinhe o número, ou volte para o bueiro");
     exibirTextoNaTela ("p", "Digite um número entre 1 e 70"); 
 }
 
